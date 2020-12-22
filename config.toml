@@ -1,0 +1,25 @@
+baseURL = "http://jugf.de/"
+languageCode = "en-us"
+title = ""
+theme = "ananke"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 5
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  site_logo = ""
+  description = "JUG Frankfurt | JUGF | Homepage"
+  twitter = "https://twitter.com/jugffm"
+  rss = ""
+  background_color_class = "bg-black"
+  featured_image = "img/jugf_convertio.svg"
+  recent_posts_number = 5
