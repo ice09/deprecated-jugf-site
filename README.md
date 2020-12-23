@@ -19,6 +19,8 @@
 
 ## Start Hugo Static Website Creation & Hosting
 
+_Note: Move docker-compose.yml out of the root directory if it is part of the cron update job._
+
 `docker-compose up`
 
 ## Access Generated Pages
