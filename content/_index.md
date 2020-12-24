@@ -5,4 +5,4 @@ description: "Welcome to the Java User Group Frankfurt (JUGF) Community Site"
 ---
 Die JUGF ist ein lokaler Verbund von Java-Interessierten.
 
-Treffen finden _jeden letzten Mittwoch eines Monats_ statt: **aktuell remote**, sonst in der Deutschen Nationalbibliothek.
+Unsere Treffen finden _jeden letzten Mittwoch eines Monats_ statt: **aktuell remote**, sonst in der Deutschen Nationalbibliothek.
