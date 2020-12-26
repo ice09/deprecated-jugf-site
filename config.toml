@@ -1,6 +1,6 @@
 baseURL = "http://jugf.de/"
 languageCode = "en-us"
-title = "Main"
+title = "JUGF"
 theme = "ananke"
 
 DefaultContentLanguage = "en"
