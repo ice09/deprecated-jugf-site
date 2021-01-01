@@ -1,7 +1,8 @@
 baseURL = "http://jugf.de/"
 languageCode = "en-us"
-title = "JUGF"
+title = "Main"
 theme = "ananke"
+copyright = "Java User Group Frankfurt"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
