@@ -12,7 +12,7 @@ _Dipl.-Inf. Jens-Hagen Syrbe ist als Software Architekt bei der Finanz Informati
 
 ## Ablauf
 
-_Bitte meldet euch bei [Nuudle](http://bit.ly/jugf_java_quiz) an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/Oo65E2Ep3ReaTepr) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
