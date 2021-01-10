@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = ""
+  favicon = "img/favicon.ico"
   site_logo = ""
   description = "JUG Frankfurt | JUGF | Homepage"
   twitter = "https://twitter.com/jugffm"
