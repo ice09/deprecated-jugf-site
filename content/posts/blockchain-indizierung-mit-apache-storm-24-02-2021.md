@@ -1,7 +1,7 @@
 ---
 title: "24.02.2021: Blockchain Indizierung mit Apache Storm"
 date: 2021-01-10T15:34:33+01:00
-draft: true
+draft: false
 featured_image: ""
 description: ""
 ---
@@ -10,7 +10,7 @@ _Dezentrale Blockchains - Zentral indizieren?_ Zwei konträre Konzepte miteinand
 
 Es wird kurz veranschaulicht wie Storm in einem Message-Processing Umfeld mit Kafka als Quelle und ElasticSearch als Storage eingesetzt werden kann und anhand eines einfachen Live-Beispiel die Kernkonzepte von Storm erläutert.
 
-_Durch sein Studium ist Max zu Java gekommen und hat es seit JDK1.5 lieben gelernt. 2010 hat er seinen Abschluss gemacht und war seit dem konstant mit Java (SE ausschließlich) unterwegs. 
+_Durch sein Studium ist Max zu Java gekommen und hat es seit JDK1.5 lieben gelernt. 2010 hat er seinen Abschluss gemacht und war seit dem konstant mit Java (SE ausschließlich) unterwegs.  
 Zunächst war er sehr viel mit Anwendungsentwicklung im Instandhaltungsbereich beschäftigt und hat gegen Legacy-Code erfolgreiche Kämpfe ausgefochten. Danach folgte 2014 die erste Kontaktaufnahme mit einem Startup wo er für Datapath.io die Latenz aller bekannter Subnetze des Internets im BigData-Stil vermessen und indiziert hat. Seit 2018 ist Max DevOps-Warrior bei Anyblock Analytics und indiziert diverse Blockchains. Darüber hinaus ist er seit etwa 4 Jahren als Springer auf node.js unterwegs._
 
 ## Ablauf
