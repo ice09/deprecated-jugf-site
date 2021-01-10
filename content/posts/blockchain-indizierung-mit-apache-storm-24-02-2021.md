@@ -15,7 +15,7 @@ Zunächst war er sehr viel mit Anwendungsentwicklung im Instandhaltungsbereich b
 
 ## Ablauf
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/Go7PNHy1CB3Ge9P6) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
