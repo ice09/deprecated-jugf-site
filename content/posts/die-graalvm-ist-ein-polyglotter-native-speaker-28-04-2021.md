@@ -1,5 +1,5 @@
 ---
-title: "28.04.2021: Die Graalvm ist ein polyglotter native Speaker"
+title: "28.04.2021: Die GraalVM ist ein polyglotter native Speaker"
 date: 2021-01-11T10:41:52+01:00
 draft: false
 featured_image: ""
@@ -24,9 +24,9 @@ _Martin Lehmann_
 _Accso - Accelerated Solutions GmbH_  
 _Martin ist Diplom-Informatiker und als Cheftechnologe und Softwarearchitekt bei der Accso – Accelerated Solutions GmbH tätig. Seit Ende der 90er-Jahre arbeitet er als Softwareentwickler und -architekt in der Softwareentwicklung in diversen Projekten der Individualentwicklung für Kunden verschiedener Branchen. Seit den Zeiten von Java 1.0 beschäfigt er sich mit Java als Programmiersprache und als Ökosystem._
 
-## Ablauf
+## Ablauf 
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/Man9SAYPLJOWi3vF) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 

@@ -16,7 +16,7 @@ _Thorsten Maier arbeitet bei Trivadis in Mannheim. Er erschließt kontinuierlich
 
 ## Ablauf
 
-_Bitte meldet euch bei [Nuudle]() an._
+_Bitte meldet euch bei [Nuudle](https://nuudel.digitalcourage.de/V2KVGHLhmqPp8Fep) an._
 
 Der JUGF-Stammtisch findet aufgrund der aktuellen Corona-Situation als online meeting auf dem [Konferenzserver des Freifunk München](https://meet.ffmuc.net/jugfmeeting) statt.
 
