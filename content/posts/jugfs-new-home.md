@@ -6,7 +6,7 @@ draft: false
 
 ## Bye Bye Google Sites
 
-Leider wird Google Sites, mit dem auch die bestehende [jugf.de-Seite](http://jugf.de) erstellt wurde, neu aufgesetzt, mobile-first, responsive usw. usf. Das ist sicherlich sinnvoll, leider werden "Bestandskunden" bei der Migration nicht wirklich unterstützt. Die automatische Migration auf das neue Format macht das Layout (noch) unbenutzbar(er).  
+Leider wird Google Sites, mit dem auch die bestehende [jugf.de-Seite](http://sites.google.com/site/jugffm/) erstellt wurde, neu aufgesetzt, mobile-first, responsive usw. usf. Das ist sicherlich sinnvoll, leider werden "Bestandskunden" bei der Migration nicht wirklich unterstützt. Die automatische Migration auf das neue Format macht das Layout (noch) unbenutzbar(er).  
 
 Wir wollen uns nicht beschweren, das damalige Aufsetzen war sehr einfach und der Betrieb war die ganze Zeit über - also nun mehr als 10 Jahre - kostenlos und unproblematisch. Aber nun ist leider Schluß und wir müssen uns nach einer Alternative umsehen.
 
