@@ -1,3 +1,5 @@
+# _NOTE: The new source for jugf.de is in the jugf github repo: github.com/jugf_ 
+
 # JUGF Community Site Creation
 
 ## Prerequisites
